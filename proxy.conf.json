@@ -1,0 +1,9 @@
+{
+    "/api-anime/*":{
+        "target":"https://api-anime.ml",
+        "secure":false,
+        "changerOrigin":true,
+        "logLevel": "debug"
+    }
+    
+}
